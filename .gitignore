@@ -30,4 +30,4 @@ next-env.d.ts
 data/cards.db
 data/cards.db-wal
 data/cards.db-shm
-.claude/settings.local.json
+.claude/
